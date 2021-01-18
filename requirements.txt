@@ -67,8 +67,6 @@ mistune==0.8.4
 multidict==5.0.0
 notebook==6.0.3
 numpy==1.19.2
-nvidia-ml-py
-nvidia-ml-py3
 oauthlib==3.1.0
 opencv-python==4.4.0.44
 opt-einsum==3.3.0
